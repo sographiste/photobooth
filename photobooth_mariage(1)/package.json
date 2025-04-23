@@ -1,0 +1,17 @@
+{
+  "name": "photobooth-mariage",
+  "version": "1.0.0",
+  "description": "Photobooth React avec impression Canon",
+  "scripts": {
+    "dev": "vite --host=0.0.0.0 --port=5174"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-webcam": "^7.0.1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
